@@ -1,0 +1,12 @@
+.feinman__image{
+  background: url(../../../images/feinman.png);
+  background-size: contain;
+  height: 637px;
+  width: 867px;
+  object-fit: cover;
+  display: flex;
+  z-index: 0;
+  left: 0;
+  bottom: 0;
+  position: absolute;
+}
