@@ -1,0 +1,11 @@
+@import url('./__item/places__item.css');
+
+.places {
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+@media screen and (max-width: 425px){
+  .places {
+    max-width: 100%;
+  }
+}

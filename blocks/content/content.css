@@ -5,13 +5,13 @@
   grid-gap: 92px;
 }
 
-@media screen and (max-width: 768) {
+@media screen and (max-width: 768px) {
   .content {
     grid-gap: 88px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 320px) {
   .content {
     grid-gap: 64px;
   }
