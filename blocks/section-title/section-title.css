@@ -1,5 +1,5 @@
-@import url(./_s/section-title_s.css);
-@import url(./_m/section-title_m.css);
+@import url(./_size/_m/section-title_size_m.css);
+@import url(./_size/_m/section-title_size_m.css);
 
 .section-title {
   font-family: 'Inter', Arial, sans-serif;
