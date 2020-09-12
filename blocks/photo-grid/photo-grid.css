@@ -2,5 +2,6 @@
 @import url(./__list/photo-grid__list.css);
 
 .photo-grid {
+  font-family: 'Inter', Arial, sans-serif;
 }
 
