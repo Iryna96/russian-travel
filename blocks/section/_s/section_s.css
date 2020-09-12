@@ -1,21 +1,21 @@
-.section__s {
+.section_s {
   max-width: calc(100% - 100px*2);
 }
 
 @media screen and (max-width: 1140px) {
-  .section__s {
+  .section_s {
     max-width: calc(100% - 48px*2);
   }
 }
 
 @media screen and (max-width: 984px) {
-  .section__s {
+  .section_s {
     max-width: calc(100% - 24px*2);
   }
 }
 
 @media screen and (max-width: 568px) {
-  .section__s {
+  .section_s {
     max-width: calc(100% - 16px*2);
   }
 }
