@@ -1,4 +1,4 @@
 # russian-travel
 Проект 3: Путешествие по России
 Сайт о путешествиях по России, сверстанный комбинацией HTML и CSS. Макет интерфейсов для разных устройств воссоздан адаптивной версткой. 
-https://github.com/Iryna96/russian-travel.git
+https://iryna96.github.io/russian-travel/
