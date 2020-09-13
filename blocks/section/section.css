@@ -1,4 +1,4 @@
-@import url(./_s/section_s.css);
+@import url('./_narrow/section_narrow.css');
 
 .section {
   -webkit-box-sizing: border-box;

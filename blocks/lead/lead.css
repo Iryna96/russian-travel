@@ -2,9 +2,12 @@
 @import url(./__subtitle/lead__subtitle.css);
 @import url(./__image/lead__image.css);
 @import url(./__caption/lead__caption.css);
+@import url(./__figurecaption/lead__figurecaption.css);
+
 
 .lead {
   font-family: 'Inter', Arial, sans-serif;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 1023px){

@@ -2,19 +2,19 @@
   width: 100%;
 }
 
-@media screen and (max-width: 1280) {
+@media screen and (max-width: 1140px){
   .page__footer {
     padding: 0 48px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 984px){
   .page__footer {
     padding: 0 24px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 640px){
   .page__footer {
     padding: 0 16px;
   }

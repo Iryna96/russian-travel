@@ -3,22 +3,16 @@
   width: 100%;
   object-fit: cover;
   display: block;
-  margin: 56px 0 8px;
+  margin: 64px 0 8px;
 }
 
-@media screen and (max-width: 1440px) {
-  .lead__image {
-    margin: 64px 0 8px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1140px){
   .lead__image {
     margin: 56px 0 8px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 640px){
   .lead__image {
     margin: 40px 0 8px;
   }

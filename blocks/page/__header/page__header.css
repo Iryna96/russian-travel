@@ -20,3 +20,9 @@
     padding: 0 16px;
   }
 }
+
+@media screen and (max-width: 425px){
+  .page__header {
+    padding: 0 16px;
+  }
+}

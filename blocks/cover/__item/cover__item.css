@@ -2,10 +2,13 @@
   min-height: 740px;
   color: #fff;
   text-decoration: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
   background-image: url('../../../images/__background.jpg');
-  background-position: center;
   -webkit-background-size: cover;
   background-size: cover;
+  background-position: center;
   background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
@@ -17,7 +20,7 @@
 }
 
 .cover__item::before {
-  content: ' ';
+  content: '';
   background: #2A2C2F;
   opacity: 0.3;
   position: absolute;
@@ -25,6 +28,10 @@
   right: 0;
   bottom: 0;
   left: 0;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -ms-transition: 0.3s;
+  -o-transition: 0.3s;
   transition: 0.3s;
   z-index: -1;
 }
