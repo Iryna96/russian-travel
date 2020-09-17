@@ -1,10 +1,7 @@
 .header__lang-list {
   display: flex;
   list-style-type: none;
-  padding: 0;
-  margin: 0;
   font-weight: 1;
-  line-height: 20px;
 }
 
 
